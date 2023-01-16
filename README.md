@@ -1,0 +1,1 @@
+# proprietary-firmware-nubia-nx569h
